@@ -42,4 +42,4 @@ print(minch(A))
 print(check(s))
 print(bank(a, y))
 print(check1(n))
-print(nodinok(b, c))
+print(nodinok(b, c)) #Преподу привет, остальным соболезную
