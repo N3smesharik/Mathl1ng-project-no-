@@ -9,7 +9,7 @@ while True:
     if n % i == 0:
         A.append(i)
     else:
-        print("Лох. Ты угадал следующие делители:", *A)
+        print("Ты угадал следующие делители:", *A)
         break
 d = datetime.now().date()
 t = datetime.now().time()
